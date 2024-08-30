@@ -24,12 +24,12 @@ A modern car rental application built with React Vite and TypeScript. This app a
 
 ## Elements
 
-- [Button](https://uiverse.io/Itskrish01/tough-frog-18)A visually appealing button element used in the application.
+- [Button](https://uiverse.io/Itskrish01/tough-frog-18):A visually appealing button element used in the application.
 
 ## API
 
-- [Cars-API](https://rapidapi.com/apininjas/api/cars-by-api-ninjas)Fetches car data including models, prices, and details.
-- [Imaginstudio-API](https://www.imaginstudio.com/?r=0)Provides high-quality car images and assets.
+- [Cars-API](https://rapidapi.com/apininjas/api/cars-by-api-ninjas):Fetches car data including models, prices, and details.
+- [Imaginstudio-API](https://www.imaginstudio.com/?r=0):Provides high-quality car images and assets.
 
 ## Preview
 
